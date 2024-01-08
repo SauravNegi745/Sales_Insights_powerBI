@@ -25,6 +25,6 @@
     `SELECT * from transactions where currency="USD"`
 
 
- 3.  Data Analysis Using Power BI
-============================
-Creating Power BI Report and DashBoards and publishing it
+<br> 3.  Data Analysis Using Power BI </br>
+<br>============================ </br>
+<br>Creating Power BI Report and DashBoards and publishing it </br>
